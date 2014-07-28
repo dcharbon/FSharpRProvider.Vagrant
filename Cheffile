@@ -1,0 +1,33 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+cookbook "apt",
+  :git => "https://github.com/cookbooks/apt.git"
+
+cookbook "build-essential",
+  :git => "https://github.com/opscode-cookbooks/build-essential.git"
+
+cookbook "yum",
+  :git => "https://github.com/opscode-cookbooks/yum.git"
+
+cookbook "yum-epel",
+  :git => "https://github.com/opscode-cookbooks/yum-epel.git"
+
+cookbook "runit",
+  :git => "https://github.com/hw-cookbooks/runit.git"
+
+cookbook "dmg",
+  :git => "https://github.com/opscode-cookbooks/dmg.git"
+
+cookbook "chef_handler",
+  :git => "https://github.com/opscode-cookbooks/chef_handler.git"
+
+cookbook "windows",
+  :git => "https://github.com/opscode-cookbooks/windows.git"
+
+cookbook "git",
+  :git => "https://github.com/jssjr/git.git"
+
+cookbook "mono",
+  :git => "https://github.com/dcharbon/cookbook-mono.git"
+
