@@ -7,13 +7,16 @@ or developing of FSharpRProvider.
 Setup Prerequisites
 ===================
 
-* Install Vagrant
+* Install [Vagrant](http://www.vagrantup.com/)
 * Install Vagrant plugins
+
   ```
   vagrant plugin install vagrant-librarian-chef
   vagrant plugin install vagrant-omnibus
   ```
-* Install VirtualBox or VMware (Fusion, desktop, whatever)
+
+* Install [VirtualBox](https://www.virtualbox.org/)
+  * Or use VMWare, but you'll need the [VMWare Plugin](https://www.vagrantup.com/vmware)
 
 Getting Started
 ===============
