@@ -16,7 +16,7 @@ Setup Prerequisites
   ```
 
 * Install [VirtualBox](https://www.virtualbox.org/)
-  * Or use VMWare, but you'll need the [VMWare Plugin](https://www.vagrantup.com/vmware)
+  * Or use VMware, but you'll need the [VMware Plugin](https://www.vagrantup.com/vmware)
 
 Getting Started
 ===============
